@@ -1,13 +1,7 @@
 
-<a href="https://discord.gg/5dZPVytKnn">
 
-    <h3 align="center">
 
-        <img src="https://i.imgur.com/5XG3bRq.png" width="280"><br>
 
-        Software Developers Community
-
-    </h3>
 
 </a>
 
